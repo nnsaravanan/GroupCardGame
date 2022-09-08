@@ -11,4 +11,4 @@ If these conditions are not met then a group cannot be formed, a function determ
 
 A class is used to define a card and another class is used to define the deck of cards.
 
-Unit tests are run as well to check whether the code is functional through a different file.
+Unit tests are run as well to check whether the code is functional through the test file.
