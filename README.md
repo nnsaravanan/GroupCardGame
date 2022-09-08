@@ -10,3 +10,5 @@ A group is determined if 3 cards all match in one attribute (eg. all cards have 
 If these conditions are not met then a group cannot be formed, a function determines that at the end.
 
 A class is used to define a card and another class is used to define the deck of cards.
+
+Unit tests are run as well to check whether the code is functional through a different file.
